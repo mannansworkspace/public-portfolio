@@ -1,0 +1,13 @@
+# First create the main projects directory in public/images
+mkdir -p public/images/projects
+
+# Create individual project folders (based on your actual project names)
+cd public/images/projects
+
+# Create folders for each project
+mkdir portfolio-v2
+mkdir ai-chat-messenger
+mkdir ecommerce-dashboard
+mkdir task-management
+mkdir fitness-tracker
+mkdir smart-home-app 
